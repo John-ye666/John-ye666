@@ -9,7 +9,7 @@
 👯 I’m open to any Internship Opportunities in NYC. If you're looking for Interns, put me on your list please.
 
 
-🤔 I am good at R, Python, Matlab and git.
+🤔 I am good at R, Python, Matlab and git. Julia and C++ are what I am learning!
 
 
 📫 Email Address: wye22@fordham.edu
